@@ -1,1 +1,1 @@
-# Pumpkin_Seeds_Model
+https://pumpkinseedsmodel-marutimargale.streamlit.app/
